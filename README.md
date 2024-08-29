@@ -6,7 +6,8 @@
 
 ## Video
 
-[![Gameplay Preview](https://img.youtube.com/vi/yourvideoid/maxresdefault.jpg)](https://www.youtube.com/watch?v=yourvideoid)
+![Video Preview](https://github.com/madusanakcs/TPS-Shooting-Game-Unity/video.mp4)
+
 
 
 ## Features
