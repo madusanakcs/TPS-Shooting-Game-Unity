@@ -6,7 +6,7 @@
 
 ## Video
 
-![Video Preview](https://github.com/madusanakcs/TPS-Shooting-Game-Unity/blob/main/video.3gp)
+![Video Preview](https://youtu.be/zwrkBfO-K9M)
 
 
 
