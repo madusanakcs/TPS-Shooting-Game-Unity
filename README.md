@@ -23,10 +23,3 @@
 - Unity 2021.3 or later
 - Compatible with Windows, macOS, and Linux
 
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/TPS-Shooting-Game-Unity.git
-   cd TPS-Shooting-Game-Unity
