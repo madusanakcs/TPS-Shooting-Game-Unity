@@ -6,7 +6,7 @@
 
 ## Video
 
-[![Video Preview](https://img.youtube.com/vi/zwrkBfO-K9M/0.jpg)](https://youtu.be/zwrkBfO-K9M)
+[Watch the video](https://github.com/user-attachments/assets/427e56da-74ef-484c-835e-f9b63e4a9884)
 
 
 
