@@ -6,7 +6,7 @@
 
 ## Video
 
-![Video Preview](https://youtu.be/zwrkBfO-K9M)
+[![Video Preview](https://img.youtube.com/vi/zwrkBfO-K9M/0.jpg)](https://youtu.be/zwrkBfO-K9M)
 
 
 
